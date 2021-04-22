@@ -21,3 +21,5 @@ Your privacy is respected - Total Hours app does not collect your data or share 
 ## Author
 
 [Dariusz Rybicki Darrarski](https://darrarski.pl)
+
+<img referrerpolicy="no-referrer-when-downgrade" src="https://matomo.darrarski.pl/matomo.php?idsite=2&amp;rec=1" style="border:0" alt="" />
